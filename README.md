@@ -58,4 +58,3 @@ Flutter Developer | Project Management Memeber (MLSA/GDSC)
 GitHub: @talhakhan363
 LinkedIn: https://www.linkedin.com/in/muhammad-talha-khan-298941212
 
-.
